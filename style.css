@@ -1,0 +1,14 @@
+@import url('./css/nav.css');
+@import url('./css/mainpage.css');
+@import url('./css/createpage.css');
+@import url('./css/catalog.css');
+@import url('./css/details.css');
+
+html {
+    font: 16px/1.2 sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
